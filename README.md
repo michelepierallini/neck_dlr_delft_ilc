@@ -1,4 +1,4 @@
-# Tendon actuation controller
+# Control of Tendon Driver Soft Continuum Robot: An Iterative Learning Control Approach
 
 Project to test out different controllers to achieve compliant behaviour for tendon actuation.
 
